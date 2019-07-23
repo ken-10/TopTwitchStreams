@@ -1,2 +1,0 @@
-# TopTwitchStreams
-Created with CodeSandbox
